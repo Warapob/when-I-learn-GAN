@@ -1,0 +1,9 @@
+ANI-WGAN/anime/
+ANI-WGAN/ani_gen/
+ANI-WGAN/checkpoint/
+ANI-WGAN/test_noise_ani/
+ANI-WGAN/animeface_WGAN_inference.ipynb
+ANI-WGAN/manipulated.gif
+ANI-WGAN/output.mp4
+ANI-WGAN/output.png
+ANI-WGAN/output1.gif
